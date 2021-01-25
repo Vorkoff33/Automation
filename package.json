@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vorkoff33/Automation.git"
+  },
+  "author": "Eugene Vorkoff <vorkoff33@gmail.com>",
+  "license": "MIT"
+}
